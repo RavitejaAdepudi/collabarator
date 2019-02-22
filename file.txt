@@ -10,4 +10,9 @@ fshgdhzsgfdchgsdzfcghdsksadfjajdshfahsghfhfdzgv
 gsdfgdfgfdgsdf
 =======
 vfdhghfgdshfgd
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+
+sjhgdjyadhsgghasgfhadsgfhasfghgaesdgh
 >>>>>>> origin/master
