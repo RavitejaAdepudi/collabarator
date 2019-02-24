@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+fshgdhzsgfdchgsdzfcghds
+
+my changesd
+=======
+fshgdhzsgfdchgsdzfcghdsksadfjajdshfahsghfhfdzgv
+>>>>>>> b52323ec46ad34e01822885b39eba29619ba5954
+<<<<<<< HEAD
+
+gsdfgdfgfdgsdf
+=======
+vfdhghfgdshfgd
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+
+sjhgdjyadhsgghasgfhadsgfhasfghgaesdgh
+>>>>>>> origin/master
+
+
+
+aedhrgawjdrgajwhfgdhjawfedawefawef
