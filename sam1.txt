@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello sachit
+=======
+hats your name
+>>>>>>> 23882f9e8333e67f88ca402240e2cff2ed37c476
